@@ -25,8 +25,41 @@
 
 ##
 
-Ctrl + b: ocultar barra lateral izquierda
-Ctrl + ç: comentar codigo
-Ctrl + shift + a: comentar codigo seleccionado
-Alt + ↑ / ↓: desplaza lineas de codigo
-Ctrl + click derecho: Te lleva a la dirección, sino la crea
+Ctrl + b : ocultar barra lateral izquierda
+
+Ctrl + ç : comentar codigo
+
+Ctrl + shift + a : comentar codigo seleccionado
+
+Alt + ↑ / ↓ : desplaza lineas de codigo
+
+Ctrl + click derecho : Te lleva a la dirección, sino la crea
+
+F12 / Alt + F12 : Ir a definición
+
+Ctrl + shift + k : Borrar linea
+
+Ctrl + shift + L : Borrar lineas seleccionadas
+
+Ctrl + K Z : Modo ZEN
+
+Ctrl + w : Cerrar tab
+
+Ctrl + K  Ctrl + W : Cerrar todas
+
+Ctrl + TAB : Cambiar de tab
+
+
+Shift + Alt + Down Arrow : Copy line
+
+
+
+
+
+
+
+
+
+
+
+
